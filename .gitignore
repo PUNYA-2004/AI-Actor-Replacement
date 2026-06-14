@@ -1,0 +1,9 @@
+.venv/
+node_modules/
+backend/outputs/
+backend/models/*.onnx
+__pycache__/
+*.pyc
+dist/
+build/
+.vscode/
